@@ -1,0 +1,586 @@
+body{
+	font-family:sans-serif;
+	font-size:20px;
+	line-height:3.1em;
+	margin: auto;
+	background-color: #ff99cc;
+}
+
+.welcome{
+	font-size: 65px;
+	font-family:cursive;
+	width: 95%;
+	margin:auto;
+	padding-top: 10px;
+	padding-bottom:5px;
+}
+
+
+#home{
+	background-color: pink;
+}
+
+#home a{
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+	margin-left:25px;
+}
+
+a:hover{
+	background-color:#ff80bf;
+}
+
+	/*first page*/
+	/* about twice */
+
+#abouttwice1{
+	background-color: #D2B4DE;
+}
+
+.abouttwice{
+	font-size: 50px;
+	padding-left: 30px;
+	padding-top: 10px;
+	margin: auto;
+	padding-bottom:4px;
+}
+
+.article1{
+	font-size: 28px;
+	padding-left: 30px;
+	font-family: Garamond, serif;
+	margin: auto;
+	margin-right:10px;
+	line-height:1.93em;
+}
+
+.article1 a{
+	color: black;
+}
+
+	/*second page*/
+	/* Members */
+
+.members{
+	font-size: 65px;
+	font-family:cursive;
+	width: 55%;
+	margin:auto;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+	/* jihyo */
+
+.block00{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+.block00 img{
+	width:150px;
+	height:150px;
+	border: 3px solid black;
+}
+
+.jihyo{
+	float: left;
+}
+
+.jihyoabout{
+	font-size:15.5px;
+	line-height: 15px;
+}
+
+ 	/*jihyo profile and facts*/
+
+.blockjihyo{
+    text-align:center;
+}  
+.blockjihyo h2{
+	font-family:cursive;
+	margin:auto;
+	font-size:60px;
+	margin-top:25px;
+}
+
+.blockjihyo img{
+	margin-top:25px;
+	border:3px solid black;
+	width:700px;
+	height:400px;
+}
+
+.blockjihyo h3{
+	font-family:cursive;
+	margin:auto;
+	font-size:50px;
+}
+
+.jihyofacts{
+	font-size: 19px;
+	line-height: 24px;
+	width:65%;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.linkjihyo{
+	text-decoration:none;
+	color:black;
+
+}
+	/* nayeon and jeongyeon*/
+
+.block1{
+	float:left;
+	width: 50%;
+	margin-top:10px;
+}
+
+.block1 img{
+	width:150px;
+	height:150px;
+	border: 3px solid black;
+}
+
+.nayeon{
+	float: left;
+	margin-right: 25px;
+	margin-left:25px;
+}
+
+.nayeonabout{
+	font-size: 15.5px;
+	line-height: 15px;
+}
+
+.jeongyeon{
+	float:left;
+	margin-right: 25px;
+	
+}
+
+.jeongyeonabout{
+	font-size: 15.5px;
+	line-height: 15px;
+}
+
+	/*nayeon profile and facts*/
+
+.blocknayeon{
+    text-align:center;
+}  
+.blocknayeon h2{
+	font-family:cursive;
+	margin:auto;
+	font-size:60px;
+	margin-top:25px;
+}
+
+.blocknayeon img{
+	margin-top:25px;
+	border:3px solid black;
+	width:700px;
+	height:600px;
+}
+
+.blocknayeon h3{
+	font-family:cursive;
+	margin:auto;
+	font-size:50px;
+}
+
+.nayeonfacts{
+	font-size: 19px;
+	line-height: 24px;
+	width:65%;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.linknayeon{
+	text-decoration:none;
+	color:black;
+}
+
+	/*jeongyeon profile and facts*/
+
+.blockjeongyeon{
+    text-align:center;
+}  
+.blockjeongyeon h2{
+	font-family:cursive;
+	margin:auto;
+	font-size:60px;
+	margin-top:25px;
+}
+
+.blockjeongyeon img{
+	margin-top:25px;
+	border:3px solid black;
+	width:700px;
+	height:650px;
+}
+
+.blockjeongyeon h3{
+	font-family:cursive;
+	margin:auto;
+	font-size:50px;
+}
+
+.jeongyeonfacts{
+	font-size: 19px;
+	line-height: 24px;
+	width:65%;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.linkjeongyeon{
+	text-decoration:none;
+	color:black;
+}
+
+	/* momo and sana*/
+
+.block2{
+	float:left;
+	width:50%;
+}
+
+.block2 img{
+	width:150px;
+	height:150px;
+	border: 3px solid black;
+}
+
+.momo{
+	float:left;
+	margin-right:25px;
+	margin-left:25px;
+}
+
+.momoabout{
+	font-size:15.5px;
+	line-height:15px;
+}
+
+.sana{
+	float: left;
+	margin-right: 25px;
+}
+
+.sanaabout{
+	font-size: 15.5px;
+	line-height: 15px;
+}
+
+	/*momo profile and facts*/
+
+.blockmomo{
+    text-align:center;
+}  
+.blockmomo h2{
+	font-family:cursive;
+	margin:auto;
+	font-size:60px;
+	margin-top:25px;
+}
+
+.blockmomo img{
+	margin-top:25px;
+	border:3px solid black;
+	width:700px;
+	height:500px;
+}
+
+.blockmomo h3{
+	font-family:cursive;
+	margin:auto;
+	font-size:50px;
+}
+
+.momofacts{
+	font-size: 19px;
+	line-height: 24px;
+	width:65%;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.linkmomo{
+	text-decoration:none;
+	color:black;
+}
+
+	/*sana profile and facts*/
+
+.blocksana{
+    text-align:center;
+}  
+.blocksana h2{
+	font-family:cursive;
+	margin:auto;
+	font-size:60px;
+	margin-top:25px;
+}
+
+.blocksana img{
+	margin-top:25px;
+	border:3px solid black;
+	width:700px;
+	height:600px;
+}
+
+.blocksana h3{
+	font-family:cursive;
+	margin:auto;
+	font-size:50px;
+}
+
+.sanafacts{
+	font-size: 19px;
+	line-height: 24px;
+	width:65%;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.linksana{
+	text-decoration:none;
+	color:black;
+}
+
+	/*mina and dahyun*/
+
+.block3{
+	float:left;
+	width:50%;
+	margin-top:10px;
+}
+
+.block3 img{
+	width:150px;
+	height:150px;
+	border: 3px solid black;
+}
+
+.mina{
+	float:left;
+	margin-right:25px;
+	margin-left:25px;
+}
+
+.minaabout{
+	font-size:15.5px;
+	line-height:15px;
+}
+
+.dahyun{
+	float:left;
+	margin-right:25px;
+}
+
+.dahyunabout{
+	font-size:15.5px;
+	line-height:15px;
+}
+
+	/*mina profile and facts*/
+
+.blockmina{
+    text-align:center;
+}  
+.blockmina h2{
+	font-family:cursive;
+	margin:auto;
+	font-size:60px;
+	margin-top:25px;
+}
+
+.blockmina img{
+	margin-top:25px;
+	border:3px solid black;
+	width:700px;
+	height:500px;
+}
+
+.blockmina h3{
+	font-family:cursive;
+	margin:auto;
+	font-size:50px;
+}
+
+.minafacts{
+	font-size: 19px;
+	line-height: 24px;
+	width:65%;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.linkmina{
+	text-decoration:none;
+	color:black;
+}
+
+	/*dahyun profile and facts*/
+
+.blockdahyun{
+    text-align:center;
+}  
+.blockdahyun h2{
+	font-family:cursive;
+	margin:auto;
+	font-size:60px;
+	margin-top:25px;
+}
+
+.blockdahyun img{
+	margin-top:25px;
+	border:3px solid black;
+	width:700px;
+	height:600px;
+}
+
+.blockdahyun h3{
+	font-family:cursive;
+	margin:auto;
+	font-size:50px;
+}
+
+.dahyunfacts{
+	font-size: 19px;
+	line-height: 24px;
+	width:65%;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.linkdahyun{
+	text-decoration:none;
+	color:black;
+}
+
+
+	/*chaeyoung and tzuyu*/
+
+.block4{
+	float:left;
+	width:50%;
+	margin-top:10px;
+}
+
+.block4 img{
+	width:150px;
+	height:150px;
+	border: 3px solid black;
+}
+
+.chaeyoung{
+	float:left;
+	margin-right:25px;
+	margin-left:25px;
+}
+
+.chaeyoungabout{
+	font-size:15.5px;
+	line-height:15px;
+}
+
+.tzuyu{
+	float:left;
+	margin-right:25px;
+}
+
+.tzuyuabout{
+	font-size:15.5px;
+	line-height:15px;
+}
+
+	/*chaeyoung profile and facts*/
+
+.blockchae{
+    text-align:center;
+}  
+.blockchae h2{
+	font-family:cursive;
+	margin:auto;
+	font-size:60px;
+	margin-top:25px;
+}
+
+.blockchae img{
+	margin-top:25px;
+	border:3px solid black;
+	width:700px;
+	height:500px;
+}
+
+.blockchae h3{
+	font-family:cursive;
+	margin:auto;
+	font-size:50px;
+}
+
+.chaefacts{
+	font-size: 19px;
+	line-height: 24px;
+	width:65%;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.linkchae{
+	text-decoration:none;
+	color:black;
+}
+
+	/*tzuyu profile and facts*/
+
+.blocktzuyu{
+    text-align:center;
+}  
+.blocktzuyu h2{
+	font-family:cursive;
+	margin:auto;
+	font-size:60px;
+	margin-top:25px;
+}
+
+.blocktzuyu img{
+	margin-top:25px;
+	border:3px solid black;
+	width:700px;
+	height:500px;
+}
+
+.blocktzuyu h3{
+	font-family:cursive;
+	margin:auto;
+	font-size:50px;
+}
+
+.tzuyufacts{
+	font-size: 19px;
+	line-height: 24px;
+	width:65%;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.linktzuyu{
+	text-decoration:none;
+	color:black;
+}
+
+#footer{
+	background-color:#936c93;
+	text-align:center;
+	font-size:17px;
+	margin-top:-17px;
+	margin-bottom:-1em;
+}
